@@ -1,0 +1,19 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+<<<<<<< HEAD
+app/google-services.json 
+=======
+>>>>>>> 032a4bc32cd667db3be8975d4b84b0116bdb328f
